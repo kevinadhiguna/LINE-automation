@@ -26,3 +26,7 @@
 5. Open terminal or command prompt (cmd) then install required library : `pip install requests` or `pip3 install requests`
 
 6. Run the program : `python line.py` or `python3 line.py`. If you want to run `LINE_Automation.ipynb`, you can run it in Google Collab or your local machine with [Anaconda](https://www.anaconda.com/) platform.
+
+🎉 Acknowledgement
+- [LINE Notify API Docs](https://notify-bot.line.me/doc/en/)
+- [Kinocode](https://www.youtube.com/channel/UCGlgXjYVoHLD86TQQ799WIw)
