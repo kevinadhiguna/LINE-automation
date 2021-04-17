@@ -6,7 +6,7 @@
   </p>
 </div>
 
-## How to Run :
+## ✨ How to Run :
 1. Login to LINE Notify at https://notify-bot.line.me/my/services/new
 
 ![image](https://user-images.githubusercontent.com/43397636/115124744-0d5a8100-9fee-11eb-9f2c-47934a49d424.png)
@@ -27,6 +27,6 @@
 
 6. Run the program : `python line.py` or `python3 line.py`. If you want to run `LINE_Automation.ipynb`, you can run it in Google Collab or your local machine with [Anaconda](https://www.anaconda.com/) platform.
 
-🎉 Acknowledgement
+## 🎉 Acknowledgement
 - [LINE Notify API Docs](https://notify-bot.line.me/doc/en/)
 - [Kinocode](https://www.youtube.com/channel/UCGlgXjYVoHLD86TQQ799WIw)
