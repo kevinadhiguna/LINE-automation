@@ -30,3 +30,5 @@
 ## 🎉 Acknowledgement
 - [LINE Notify API Docs](https://notify-bot.line.me/doc/en/)
 - [Kinocode](https://www.youtube.com/channel/UCGlgXjYVoHLD86TQQ799WIw)
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/LINE-automation)](https://github.com/kevinadhiguna)
