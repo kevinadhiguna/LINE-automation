@@ -27,6 +27,16 @@
 
 6. Run the program : `python line.py` or `python3 line.py`. If you want to run `LINE_Automation.ipynb`, you can run it in Google Collab or your local machine with [Anaconda](https://www.anaconda.com/) platform.
 
+## :camera_flash: Results :
+
+### Send a message
+
+<img src="https://i.ibb.co/C5Z78g6/result-1.jpg" alt="A Message" width="60%" height="60%" />
+
+### Send a message and a picture
+
+<img src="https://i.ibb.co/fdRysb8/result-2.jpg" alt="A Message and A Picture" border="0" width="60%" height="60%" />
+
 ## 🎉 Acknowledgement
 - [LINE Notify API Docs](https://notify-bot.line.me/doc/en/)
 - [Kinocode](https://www.youtube.com/channel/UCGlgXjYVoHLD86TQQ799WIw)
