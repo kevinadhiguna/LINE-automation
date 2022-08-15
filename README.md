@@ -37,8 +37,11 @@
 
 <img src="https://i.ibb.co/fdRysb8/result-2.jpg" alt="A Message and A Picture" border="0" width="60%" height="60%" />
 
-## 🎉 Acknowledgement
+## Resource
 - [LINE Notify API Docs](https://notify-bot.line.me/doc/en/)
-- [Kinocode](https://www.youtube.com/channel/UCGlgXjYVoHLD86TQQ799WIw)
+
+## Reference
+
+- [【仕事の自動化】PythonでLINEを操作。メッセージや画像を自分へ送信しよう！【初心者の方もわかりやすいように解説】by Kinocode](https://youtu.be/FuCJd0ftVsU)
 
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/LINE-automation)](https://github.com/kevinadhiguna)
