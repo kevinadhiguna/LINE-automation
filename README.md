@@ -6,7 +6,10 @@
   </p>
 </div>
 
+<br />
+
 ## ✨ How to Run :
+
 1. Login to LINE Notify at https://notify-bot.line.me/my/services/new
 
 ![image](https://user-images.githubusercontent.com/43397636/115124744-0d5a8100-9fee-11eb-9f2c-47934a49d424.png)
@@ -37,11 +40,17 @@
 
 <img src="https://i.ibb.co/fdRysb8/result-2.jpg" alt="A Message and A Picture" border="0" width="60%" height="60%" />
 
+<br />
+
 ## Resource
 - [LINE Notify API Docs](https://notify-bot.line.me/doc/en/)
+
+<br />
 
 ## Reference
 
 - [【仕事の自動化】PythonでLINEを操作。メッセージや画像を自分へ送信しよう！【初心者の方もわかりやすいように解説】by Kinocode](https://youtu.be/FuCJd0ftVsU)
+
+<br />
 
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/LINE-automation)](https://github.com/kevinadhiguna)
